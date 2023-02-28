@@ -1,0 +1,1 @@
+python cli_todo.py "$@"
